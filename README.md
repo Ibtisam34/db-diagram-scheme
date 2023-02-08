@@ -71,7 +71,7 @@ PostgreSQL
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
+<!-- LIVE DEMO --> https://dbdiagram.io/d/63e37ab6296d97641d7f5a50
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
